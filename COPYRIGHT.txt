@@ -1,0 +1,20 @@
+© 2026 Historia Factory. Todos los derechos reservados.
+
+Historia Factory y sus elementos originales, incluyendo su identidad de marca,
+nombre, logotipo, diseños visuales, historias, personajes, textos, ilustraciones,
+interfaces, contenido audiovisual, documentación y software original, son propiedad
+de sus respectivos titulares.
+
+No se concede una licencia general para copiar, reproducir, redistribuir, modificar,
+vender, publicar o reutilizar estos materiales fuera de los permisos expresamente
+concedidos por los titulares de los derechos.
+
+El hecho de que determinados materiales se encuentren publicados en GitHub no implica
+que se hayan liberado bajo una licencia de software libre o de código abierto.
+
+Este aviso no pretende limitar los permisos o derechos que puedan derivarse de los
+servicios, términos de uso o funcionamiento de plataformas de terceros.
+
+Las marcas, nombres, obras, sonidos, imágenes, tipografías, bibliotecas y otros
+recursos de terceros utilizados por Historia Factory pueden estar sujetos a sus
+propios derechos, licencias y condiciones de uso.
